@@ -1,5 +1,5 @@
 {
-    "image": { 
+    "image": {
         "url": "/img/illustrations/interior.jpg",
         "alt": "interior"
     },
@@ -16,7 +16,7 @@
         },
         {
             "num": "02",
-            "title": "Fresh, organic ingredients",
+            "title": "Explore collections of premium products",
             "text": "Consectetur numquam porro nemo veniam necessitatibus praesentium eligendi rem temporibus adipisci quo modi."
         },
         {

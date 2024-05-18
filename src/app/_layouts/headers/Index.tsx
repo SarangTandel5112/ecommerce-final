@@ -87,7 +87,7 @@ const DefaultHeader = () => {
                                                 >
                                                     {item.label}
                                                 </Link>
-                                                {item.children.length > 0 && (
+                                                {/* {item.children.length > 0 && (
                                                     <ul
                                                         className={
                                                             openSubMenu ===
@@ -124,7 +124,7 @@ const DefaultHeader = () => {
                                                             )
                                                         )}
                                                     </ul>
-                                                )}
+                                                )} */}
                                             </li>
                                         )
                                     )}

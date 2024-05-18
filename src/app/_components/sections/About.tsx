@@ -40,7 +40,7 @@ const AboutSection = () => {
                             <div className="sb-illustration-2 sb-mb-90">
                                 <div className="sb-interior-frame">
                                     <img
-                                        src={Data.image.url}
+                                        src="img/home/9240592.jpg"
                                         alt={Data.image.alt}
                                         className="sb-interior"
                                     />

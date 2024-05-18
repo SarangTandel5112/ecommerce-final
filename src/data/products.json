@@ -2,56 +2,56 @@
     "collection": {
         "popular": [
             {
-                "image": "/img/menu/3.jpg",
-                "title": "Carpaccio de daurade",
+                "image": "/img/products/olive_oil.jpeg",
+                "title": "Olive Oil",
                 "price": "14",
                 "currency": "$",
                 "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                "text": "USDA certified organic and bottled in eco-friendly glass, it's a pantry essential for the health-conscious cook."
             },
             {
-                "image": "/img/menu/1.jpg",
-                "title": "Chevrefrit au miel",
+                "image": "/img/products/bamboo-toothbrush.jpeg",
+                "title": "Bamboo Toothbrush",
                 "price": "14",
                 "currency": "$",
                 "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                "text": "Crafted from 100% biodegradable bamboo and BPA-free bristles, this toothbrush is gentle on your teeth."
             },
             {
-                "image": "/img/menu/2.jpg",
-                "title": "Saumon Gravlax",
+                "image": "/img/products/Wireless-Headphones.jpeg",
+                "title": "Wireless Headphones",
                 "price": "9",
                 "currency": "$",
                 "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                "text": "With a comfortable, over-ear design and long-lasting battery life, they're perfect for on-the-go listening.",
                 "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
             },
             {
-                "image": "/img/menu/9.jpg",
-                "title": "Croustillant de poisson",
-                "price": "4",
-                "currency": "$",
-                "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
-            },
-            {
-                "image": "/img/menu/5.jpg",
-                "title": "Carpaccio de daurade",
-                "price": "6",
-                "currency": "$",
-                "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-            },
-            {
-                "image": "/img/menu/4.jpg",
-                "title": "Stracciatella",
+                "image": "/img/products/Water-Bottle.jpeg",
+                "title": "Insulated Water Bottle",
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
-                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-            }    
+                "text": "Featuring double-wall vacuum insulation, this bottle keeps beverages cold for up to 24 hours and hot for up to 12 hours."
+            },
+            {
+                "image": "/img/products/Cotton-Blanket.avif",
+                "title": "Cotton Blanket",
+                "price": "4",
+                "currency": "$",
+                "rating": 5,
+                "text": "Available in various colors and sizes, it adds a touch of elegance to any room while promoting sustainable living.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+            },
+            {
+                "image": "/img/products/dark-chocolate-truffles.jpeg",
+                "title": "Dark Chocolate Truffles",
+                "price": "6",
+                "currency": "$",
+                "rating": 5,
+                "text": "Each box contains an assortment of flavors, offering a rich and satisfying treat for any occasion.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            }
         ],
         "bestseller": [
             {

@@ -30,13 +30,13 @@ const Hero = ({ type }: any) => {
                                     <h1
                                         className="sb-mb-30"
                                         dangerouslySetInnerHTML={{
-                                            __html: Data.title,
+                                            __html: "We don't sell, we craft your experiences!",
                                         }}
                                     />
                                     <p
                                         className="sb-text sb-text-lg sb-mb-30"
                                         dangerouslySetInnerHTML={{
-                                            __html: Data.description,
+                                            __html: "Discover curated items that bring happiness to your everyday life.",
                                         }}
                                     />
 
@@ -47,11 +47,11 @@ const Hero = ({ type }: any) => {
                                     >
                                         <span className="sb-icon">
                                             <img
-                                                src={Data.button1.icon}
+                                                src="img/ui/icons/cart.svg"
                                                 alt="icon"
                                             />
                                         </span>
-                                        <span>{Data.button1.label}</span>
+                                        <span>Shop now</span>
                                     </Link>
                                     {/* button end */}
                                     {/* button */}
@@ -76,7 +76,7 @@ const Hero = ({ type }: any) => {
                             {type == 1 ? (
                                 <div className="sb-illustration-1">
                                     <img
-                                        src={Data.image.url}
+                                        src="img/home/main.svg"
                                         alt={Data.image.alt}
                                         className="sb-girl"
                                     />

@@ -33,7 +33,7 @@ export default function Home() {
                 slidesPerView={4}
             />
             <Pricing />
-            <TeamSection />
+            {/* <TeamSection /> */}
             <CallToActionSection />
         </>
     );

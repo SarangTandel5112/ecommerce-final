@@ -8,25 +8,25 @@
     "items": [
         {
             "image": "/img/categories/1.png",
-            "title": "Starters",
+            "title": "Groceries",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
             "link": "/products"
         },
         {
             "image": "/img/categories/2.png",
-            "title": "Main dishes",
+            "title": "Accessories",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
             "link": "/products"
         },
         {
             "image": "/img/categories/3.png",
-            "title": "Drinks",
+            "title": "Electronics",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
             "link": "/products"
         },
         {
             "image": "/img/categories/4.png",
-            "title": "Desserts",
+            "title": "Books and Media",
             "text": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
             "link": "/products"
         }

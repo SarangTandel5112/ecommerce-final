@@ -26,7 +26,7 @@ const MenuItem = ({ item, index, noImage, marginBottom }: any) => {
                 {noImage != 1 && (
                     <div className="sb-cover-frame">
                         <img src={item.image} alt={item.title} />
-                        <div dangerouslySetInnerHTML={{ __html: item.badge }} />
+                        {/* <div dangerouslySetInnerHTML={{ __html: item.badge }} /> */}
                     </div>
                 )}
                 <div className="sb-card-tp">

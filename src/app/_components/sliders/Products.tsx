@@ -44,7 +44,7 @@ const ProductsSlider = ({
                             <h2
                                 className="sb-mb-30"
                                 dangerouslySetInnerHTML={{
-                                    __html: title ? title : Data.title,
+                                    __html: "Most popular products",
                                 }}
                             />
                             <p
@@ -79,19 +79,11 @@ const ProductsSlider = ({
                                 >
                                     <span className="sb-icon">
                                         <img
-                                            src={
-                                                button.icon
-                                                    ? button.icon
-                                                    : Data.button.icon
-                                            }
+                                            src="/img/ui/icons/cart.svg"
                                             alt="icon"
                                         />
                                     </span>
-                                    <span>
-                                        {button.label
-                                            ? button.label
-                                            : Data.button.label}
-                                    </span>
+                                    <span>Shop now</span>
                                 </Link>
                             )}
                             {/* button end */}
